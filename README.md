@@ -1,3 +1,3 @@
 # hello-world
 
-practice practice practice
+Just a space for me to practice my Python programming skills...
